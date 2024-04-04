@@ -1,0 +1,166 @@
+fileFormatVersion: 2
+guid: 9266c7572c51b124cae295c7fb6be0a3
+timeCreated: 1712067472
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: 키보드1
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 394
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.1211855, y: 0.02846743}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 키보드1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 27.07612
+        width: 300
+        height: 252.8971
+      alignment: 9
+      pivot: {x: 0.1211855, y: -0.06271306}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 86, y: -126.5247}
+        - {x: 51, y: -101.5247}
+        - {x: 52, y: -95.52467}
+        - {x: -150, y: 37.47533}
+        - {x: -150, y: 51.47533}
+        - {x: -103, y: 123.4753}
+        - {x: -97, y: 126.4753}
+        - {x: -92, y: 126.4753}
+        - {x: 140, y: -25.52467}
+        - {x: 150, y: -33.52467}
+        - {x: 150, y: -45.52467}
+        - {x: 105, y: -118.5247}
+        - {x: 92, y: -126.5247}
+      physicsShape:
+      - - {x: 113, y: -101.5247}
+        - {x: 128, y: -78.52467}
+        - {x: 134, y: -69.52467}
+        - {x: 145, y: -52.52467}
+        - {x: 150, y: -45.52467}
+        - {x: 150, y: -34.52467}
+        - {x: 148, y: -32.52467}
+        - {x: 124, y: -16.52467}
+        - {x: 101, y: -1.524673}
+        - {x: 92, y: 4.475327}
+        - {x: 69, y: 19.47533}
+        - {x: 59.99998, y: 25.47531}
+        - {x: 37, y: 40.47533}
+        - {x: 28, y: 46.47533}
+        - {x: 7.999992, y: 59.47533}
+        - {x: -1, y: 65.47531}
+        - {x: -24, y: 80.47533}
+        - {x: -33, y: 86.47533}
+        - {x: -56, y: 101.4753}
+        - {x: -65, y: 107.4753}
+        - {x: -82, y: 118.4753}
+        - {x: -90, y: 124.4753}
+        - {x: -95, y: 126.4753}
+        - {x: -97, y: 126.4753}
+        - {x: -102, y: 122.4753}
+        - {x: -106, y: 116.4753}
+        - {x: -109, y: 111.4753}
+        - {x: -129, y: 81.47533}
+        - {x: -138, y: 67.47531}
+        - {x: -144, y: 58.47533}
+        - {x: -150, y: 50.47531}
+        - {x: -150, y: 39.47531}
+        - {x: -147, y: 36.47533}
+        - {x: -132, y: 26.47531}
+        - {x: -109, y: 11.47533}
+        - {x: -100, y: 5.475327}
+        - {x: -80, y: -7.524673}
+        - {x: -71, y: -13.52467}
+        - {x: -48, y: -28.52468}
+        - {x: -39, y: -34.52467}
+        - {x: -16, y: -49.52467}
+        - {x: -7, y: -55.52467}
+        - {x: 16, y: -70.52467}
+        - {x: 25, y: -76.52467}
+        - {x: 42, y: -87.52467}
+        - {x: 47, y: -91.52467}
+        - {x: 54, y: -95.52467}
+        - {x: 52, y: -97.52467}
+        - {x: 52, y: -100.5247}
+        - {x: 57, y: -105.5247}
+        - {x: 65, y: -109.5247}
+        - {x: 66, y: -111.5247}
+        - {x: 76, y: -117.5247}
+        - {x: 83, y: -122.5247}
+        - {x: 87, y: -123.5247}
+        - {x: 89, y: -126.5247}
+        - {x: 92, y: -126.5247}
+        - {x: 97.99998, y: -121.5247}
+        - {x: 104, y: -117.5247}
+        - {x: 107, y: -110.5247}
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag:
+  userData:
+  assetBundleName:
+  assetBundleVariant:

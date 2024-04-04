@@ -1,0 +1,145 @@
+fileFormatVersion: 2
+guid: e3339e40a19c02448889dec908991f5b
+timeCreated: 1712067471
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: 밥주걱3
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 363
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.2049522, y: 0.01231771}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 밥주걱3
+      rect:
+        serializedVersion: 2
+        x: 85.07612
+        y: 105.0267
+        width: 210.8971
+        height: 257.9733
+      alignment: 9
+      pivot: {x: -0.1118577, y: -0.3897901}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -99.52469, y: 25.98662}
+        - {x: -105.5247, y: 40.98663}
+        - {x: -105.5247, y: 110.9866}
+        - {x: -93.52469, y: 128.9866}
+        - {x: -16.52469, y: 128.9866}
+        - {x: 35.47531, y: 101.9866}
+        - {x: 105.4753, y: -86.01338}
+        - {x: 105.4753, y: -126.0134}
+        - {x: 102.4753, y: -129.0134}
+        - {x: 63.47531, y: -129.0134}
+      physicsShape:
+      - - {x: 105.4753, y: -107.0134}
+        - {x: 104.4753, y: -99.01338}
+        - {x: 95.47531, y: -81.01338}
+        - {x: 89.47531, y: -72.0134}
+        - {x: 31.47531, y: -4.013382}
+        - {x: 27.4753, y: 4.986603}
+        - {x: 23.47531, y: 15.98662}
+        - {x: 20.47531, y: 61.98663}
+        - {x: 13.47531, y: 86.98663}
+        - {x: 5.475311, y: 98.98663}
+        - {x: -11.5247, y: 116.9866}
+        - {x: -27.52469, y: 127.9866}
+        - {x: -30.52469, y: 128.9866}
+        - {x: -66.52469, y: 128.9866}
+        - {x: -76.52469, y: 124.9866}
+        - {x: -94.52469, y: 109.9866}
+        - {x: -99.52469, y: 102.9866}
+        - {x: -104.5247, y: 90.98663}
+        - {x: -105.5247, y: 82.98663}
+        - {x: -105.5247, y: 59.98663}
+        - {x: -100.5247, y: 46.98663}
+        - {x: -96.52469, y: 38.98663}
+        - {x: -91.52469, y: 31.98663}
+        - {x: -74.52469, y: 14.98662}
+        - {x: -65.52469, y: 9.986603}
+        - {x: -48.52469, y: 1.986603}
+        - {x: -36.52469, y: -3.013382}
+        - {x: -24.5247, y: -7.013382}
+        - {x: 3.475311, y: -24.01338}
+        - {x: 16.47531, y: -43.01338}
+        - {x: 41.47531, y: -86.01338}
+        - {x: 55.47531, y: -107.0134}
+        - {x: 63.47531, y: -118.0134}
+        - {x: 81.4753, y: -129.0134}
+        - {x: 92.47531, y: -129.0134}
+        - {x: 97.47531, y: -127.0134}
+        - {x: 101.4753, y: -124.0134}
+        - {x: 105.4753, y: -117.0134}
+      - - {x: 79.4753, y: -101.0134}
+        - {x: 83.4753, y: -100.0134}
+        - {x: 82.4753, y: -105.0134}
+        - {x: 79.4753, y: -105.0134}
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag:
+  userData:
+  assetBundleName:
+  assetBundleVariant:

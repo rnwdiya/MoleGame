@@ -1,0 +1,141 @@
+fileFormatVersion: 2
+guid: 6d1718777efebcc498a930f752cf4aa2
+timeCreated: 1712067472
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: 파리채1
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 47
+  maxTextureSize: 360
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.1521493, y: 0.08270481}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 파리채1
+      rect:
+        serializedVersion: 2
+        x: 42.02675
+        y: 50.00885
+        width: 272.9219
+        height: 198.9644
+      alignment: 9
+      pivot: {x: 0.02440634, y: -0.1017022}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 97.5123, y: -99.49104}
+        - {x: -136.4877, y: 16.50896}
+        - {x: -136.4877, y: 99.50894}
+        - {x: -68.4877, y: 99.50894}
+        - {x: 136.5123, y: -70.49104}
+        - {x: 136.5123, y: -99.49104}
+      physicsShape:
+      - - {x: 128.5123, y: -72.49104}
+        - {x: 112.5123, y: -63.49104}
+        - {x: 91.51228, y: -52.49104}
+        - {x: 82.5123, y: -46.49104}
+        - {x: 51.5123, y: -30.49104}
+        - {x: 1.512299, y: -1.491051}
+        - {x: -20.4877, y: 10.50896}
+        - {x: -34.4877, y: 18.50896}
+        - {x: -51.4877, y: 29.50896}
+        - {x: -57.4877, y: 49.50894}
+        - {x: -61.4877, y: 60.50896}
+        - {x: -65.4877, y: 66.50896}
+        - {x: -85.4877, y: 79.50896}
+        - {x: -104.4877, y: 91.50896}
+        - {x: -113.4877, y: 97.50896}
+        - {x: -119.4877, y: 99.50894}
+        - {x: -124.4877, y: 99.50894}
+        - {x: -129.4877, y: 95.50896}
+        - {x: -136.4877, y: 71.50896}
+        - {x: -136.4877, y: 50.50894}
+        - {x: -131.4877, y: 30.50896}
+        - {x: -127.4877, y: 25.50894}
+        - {x: -122.4877, y: 20.50896}
+        - {x: -91.4877, y: 5.508957}
+        - {x: -77.4877, y: -0.4910507}
+        - {x: -71.4877, y: -2.491051}
+        - {x: -57.4877, y: 9.508957}
+        - {x: -57.4877, y: 14.50896}
+        - {x: -43.4877, y: 5.508957}
+        - {x: -25.48771, y: -4.491043}
+        - {x: 5.512299, y: -22.49105}
+        - {x: 25.51228, y: -34.49104}
+        - {x: 39.5123, y: -42.49104}
+        - {x: 65.5123, y: -60.49105}
+        - {x: 99.5123, y: -82.49104}
+        - {x: 109.5123, y: -90.49104}
+        - {x: 124.5123, y: -99.49104}
+        - {x: 126.5123, y: -99.49104}
+        - {x: 130.5123, y: -98.49104}
+        - {x: 136.5123, y: -94.49104}
+        - {x: 136.5123, y: -84.49104}
+        - {x: 132.5123, y: -76.49104}
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag:
+  userData:
+  assetBundleName:
+  assetBundleVariant:

@@ -1,0 +1,122 @@
+fileFormatVersion: 2
+guid: c105adeeaa2514d45a28528e992ac064
+timeCreated: 1712067471
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: 바게트2
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 47
+  maxTextureSize: 312
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.1635064, y: 0.0184349}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 바게트2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 300
+        height: 54.98709
+      alignment: 9
+      pivot: {x: 0.1635064, y: 0.1046007}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -141, y: -25.49355}
+        - {x: -150, y: -15.49355}
+        - {x: -150, y: 15.50645}
+        - {x: -140, y: 27.50645}
+        - {x: 139, y: 27.50645}
+        - {x: 150, y: 26.50645}
+        - {x: 150, y: -27.49355}
+        - {x: -127, y: -27.49355}
+        - {x: -132, y: -26.49355}
+      physicsShape:
+      - - {x: 133, y: -22.49355}
+        - {x: 142, y: -19.49355}
+        - {x: 150, y: -10.49355}
+        - {x: 150, y: 10.50645}
+        - {x: 144, y: 16.50645}
+        - {x: 132, y: 20.50645}
+        - {x: 111, y: 21.50645}
+        - {x: 60, y: 26.50645}
+        - {x: 13.99999, y: 27.50645}
+        - {x: -62, y: 27.50645}
+        - {x: -104, y: 24.50645}
+        - {x: -109, y: 25.50645}
+        - {x: -141, y: 14.50645}
+        - {x: -150, y: 5.506449}
+        - {x: -150, y: -15.49355}
+        - {x: -141, y: -25.49355}
+        - {x: -123, y: -27.49355}
+        - {x: 54, y: -27.49355}
+        - {x: 81, y: -26.49355}
+        - {x: 103, y: -25.49355}
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag:
+  userData:
+  assetBundleName:
+  assetBundleVariant:

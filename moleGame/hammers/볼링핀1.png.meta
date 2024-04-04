@@ -1,0 +1,149 @@
+fileFormatVersion: 2
+guid: 3a12d61eee6d6f4458997fd654c682ec
+timeCreated: 1712067472
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: 볼링핀1
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 47
+  maxTextureSize: 352
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.1409665, y: 0.02846744}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 볼링핀1
+      rect:
+        serializedVersion: 2
+        x: 20.04291
+        y: 43.07612
+        width: 270.9303
+        height: 198.8477
+      alignment: 9
+      pivot: {x: 0.08211352, y: -0.1662356}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -90.50807, y: -16.50001}
+        - {x: -135.5081, y: 44.5}
+        - {x: -135.5081, y: 82.5}
+        - {x: -119.5081, y: 99.5}
+        - {x: -59.50807, y: 99.5}
+        - {x: 25.49193, y: 54.5}
+        - {x: 122.4919, y: -39.5}
+        - {x: 135.4919, y: -52.5}
+        - {x: 135.4919, y: -77.5}
+        - {x: 132.4919, y: -89.5}
+        - {x: 116.4919, y: -99.5}
+        - {x: 87.49193, y: -99.5}
+      physicsShape:
+      - - {x: 135.4919, y: -58.5}
+        - {x: 130.4919, y: -50.5}
+        - {x: 121.4919, y: -41.50001}
+        - {x: 111.4919, y: -34.5}
+        - {x: 89.49193, y: -25.50001}
+        - {x: 59.49193, y: -9.5}
+        - {x: 45.49193, y: 4.5}
+        - {x: 21.49193, y: 35.5}
+        - {x: 15.49193, y: 42.5}
+        - {x: 2.491928, y: 55.5}
+        - {x: -7.508072, y: 63.49998}
+        - {x: -20.50808, y: 72.5}
+        - {x: -44.50807, y: 83.5}
+        - {x: -79.50807, y: 96.5}
+        - {x: -92.50807, y: 99.5}
+        - {x: -104.5081, y: 99.5}
+        - {x: -113.5081, y: 97.5}
+        - {x: -124.5081, y: 87.49998}
+        - {x: -135.5081, y: 65.5}
+        - {x: -135.5081, y: 48.5}
+        - {x: -131.5081, y: 43.5}
+        - {x: -125.5081, y: 35.5}
+        - {x: -115.5081, y: 24.49998}
+        - {x: -88.50807, y: -2.5}
+        - {x: -82.50807, y: -7.5}
+        - {x: -73.50807, y: -14.50001}
+        - {x: -68.50807, y: -18.5}
+        - {x: -52.50808, y: -26.50001}
+        - {x: -43.50807, y: -31.5}
+        - {x: -26.50808, y: -35.50001}
+        - {x: -13.50807, y: -38.5}
+        - {x: 6.491928, y: -42.5}
+        - {x: 25.49193, y: -48.50001}
+        - {x: 40.49191, y: -57.5}
+        - {x: 55.49193, y: -68.5}
+        - {x: 68.49193, y: -80.5}
+        - {x: 78.49191, y: -89.5}
+        - {x: 93.49193, y: -97.5}
+        - {x: 96.49193, y: -98.5}
+        - {x: 102.4919, y: -99.5}
+        - {x: 109.4919, y: -99.5}
+        - {x: 115.4919, y: -98.5}
+        - {x: 129.4919, y: -87.5}
+        - {x: 135.4919, y: -74.5}
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag:
+  userData:
+  assetBundleName:
+  assetBundleVariant:

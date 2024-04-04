@@ -1,0 +1,144 @@
+fileFormatVersion: 2
+guid: 59f40f3e87c12154e8055390e4267ab4
+timeCreated: 1712067471
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: 대걸레1
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 420
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.2018484, y: 0.2008546}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 대걸레1
+      rect:
+        serializedVersion: 2
+        x: 17.07612
+        y: 119.0267
+        width: 280.8478
+        height: 211.8971
+      alignment: 9
+      pivot: {x: 0.15553, y: -0.1636068}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -94.50001, y: -51.97533}
+        - {x: -140.5, y: 18.02467}
+        - {x: -140.5, y: 72.02467}
+        - {x: -104.5, y: 106.0247}
+        - {x: -56.50001, y: 106.0247}
+        - {x: 124.5, y: -84.97533}
+        - {x: 140.5, y: -93.97533}
+        - {x: 140.5, y: -105.9753}
+        - {x: 96.49998, y: -105.9753}
+      physicsShape:
+      - - {x: 124.5, y: -86.97533}
+        - {x: 110.5, y: -82.97533}
+        - {x: -5.500015, y: -38.97533}
+        - {x: -45.50001, y: -21.97533}
+        - {x: -43.50001, y: 8.024673}
+        - {x: -56.50001, y: 47.02467}
+        - {x: -56.50001, y: 56.02467}
+        - {x: -60.50001, y: 75.02467}
+        - {x: -69.50001, y: 91.02466}
+        - {x: -69.50001, y: 102.0247}
+        - {x: -73.50001, y: 106.0247}
+        - {x: -78.50001, y: 106.0247}
+        - {x: -90.50001, y: 99.02467}
+        - {x: -97.50001, y: 94.02466}
+        - {x: -107.5, y: 95.02466}
+        - {x: -115.5, y: 86.02466}
+        - {x: -121.5, y: 73.02467}
+        - {x: -123.5, y: 66.02466}
+        - {x: -128.5, y: 55.02467}
+        - {x: -135.5, y: 42.02467}
+        - {x: -140.5, y: 33.02467}
+        - {x: -140.5, y: 28.02467}
+        - {x: -129.5, y: 17.02467}
+        - {x: -116.5, y: -2.975327}
+        - {x: -107.5, y: -13.97533}
+        - {x: -101.5, y: -24.97533}
+        - {x: -92.50001, y: -35.97533}
+        - {x: -87.50001, y: -39.97533}
+        - {x: -77.50001, y: -45.97533}
+        - {x: -68.50001, y: -44.97533}
+        - {x: -62.50001, y: -42.97533}
+        - {x: -53.50001, y: -36.97533}
+        - {x: -19.50001, y: -48.97533}
+        - {x: 2.499992, y: -56.97533}
+        - {x: 36.49998, y: -68.97533}
+        - {x: 83.49998, y: -86.97533}
+        - {x: 117.5, y: -99.97533}
+        - {x: 131.5, y: -105.9753}
+        - {x: 138.5, y: -105.9753}
+        - {x: 140.5, y: -104.9753}
+        - {x: 140.5, y: -95.97533}
+        - {x: 136.5, y: -91.97533}
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag:
+  userData:
+  assetBundleName:
+  assetBundleVariant:

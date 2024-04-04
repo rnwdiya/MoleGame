@@ -1,0 +1,143 @@
+fileFormatVersion: 2
+guid: e53ac208674fcf743a69d7532294e3ee
+timeCreated: 1712067472
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: 잡지3
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 338
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.1128585, y: 0.0134186}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 잡지3
+      rect:
+        serializedVersion: 2
+        x: 103.0541
+        y: 65.04291
+        width: 196.9459
+        height: 272.9571
+      alignment: 9
+      pivot: {x: -0.3513482, y: -0.2216737}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.52705, y: -58.52145}
+        - {x: -98.52705, y: 82.47855}
+        - {x: -98.52705, y: 116.4785}
+        - {x: -76.52705, y: 134.4785}
+        - {x: -65.52705, y: 136.4785}
+        - {x: -14.52705, y: 136.4785}
+        - {x: 98.47295, y: -81.52145}
+        - {x: 98.47295, y: -102.5215}
+        - {x: 95.47295, y: -117.5215}
+        - {x: 76.47295, y: -132.5215}
+        - {x: 67.47293, y: -136.5215}
+        - {x: 47.47296, y: -136.5215}
+        - {x: 38.47295, y: -128.5215}
+      physicsShape:
+      - - {x: 98.47292, y: -98.52145}
+        - {x: 98.47292, y: -85.52146}
+        - {x: 85.47295, y: -62.52145}
+        - {x: 71.47293, y: -39.52145}
+        - {x: 67.47293, y: -33.52147}
+        - {x: 58.47295, y: -22.52147}
+        - {x: 59.47295, y: -16.52145}
+        - {x: 46.47293, y: 3.478546}
+        - {x: 33.47295, y: 28.47855}
+        - {x: 23.47295, y: 47.47853}
+        - {x: 15.47293, y: 65.47855}
+        - {x: 4.472946, y: 86.47855}
+        - {x: 5.472946, y: 90.47855}
+        - {x: 1.472946, y: 92.47855}
+        - {x: -20.52705, y: 136.4785}
+        - {x: -55.52705, y: 136.4785}
+        - {x: -73.52705, y: 128.4785}
+        - {x: -80.52705, y: 123.4785}
+        - {x: -92.52705, y: 112.4785}
+        - {x: -97.52705, y: 101.4785}
+        - {x: -98.52705, y: 95.47855}
+        - {x: -98.52705, y: 91.47855}
+        - {x: -95.52706, y: 82.47855}
+        - {x: -83.52705, y: 64.47855}
+        - {x: -55.52705, y: 20.47853}
+        - {x: -40.52705, y: -2.521454}
+        - {x: -34.52707, y: -11.52145}
+        - {x: -13.52705, y: -42.52145}
+        - {x: -11.52705, y: -53.52145}
+        - {x: 4.472946, y: -71.52145}
+        - {x: 26.47295, y: -105.5215}
+        - {x: 38.47295, y: -128.5215}
+        - {x: 47.47293, y: -136.5215}
+        - {x: 67.47293, y: -136.5215}
+        - {x: 76.47295, y: -132.5215}
+        - {x: 95.47295, y: -117.5215}
+        - {x: 93.47295, y: -107.5215}
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag:
+  userData:
+  assetBundleName:
+  assetBundleVariant:

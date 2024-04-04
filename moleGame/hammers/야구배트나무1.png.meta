@@ -1,0 +1,139 @@
+fileFormatVersion: 2
+guid: b05762561cfc19442aeb74db2ede04c2
+timeCreated: 1712067472
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: 야구배트나무1
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 315
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.09443194, y: 0.01592674}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 야구배트나무1
+      rect:
+        serializedVersion: 2
+        x: 21.02675
+        y: 29.07612
+        width: 273.9255
+        height: 183.8971
+      alignment: 9
+      pivot: {x: 0.02665991, y: -0.1308296}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128.9895, y: 34.97532}
+        - {x: -136.9895, y: 43.97532}
+        - {x: -136.9895, y: 69.97532}
+        - {x: -118.9895, y: 91.97533}
+        - {x: -97.98952, y: 91.97533}
+        - {x: 137.0105, y: -52.02468}
+        - {x: 137.0105, y: -69.02468}
+        - {x: 125.0105, y: -92.02468}
+        - {x: 108.0105, y: -92.02468}
+      physicsShape:
+      - - {x: 137.0104, y: -58.02468}
+        - {x: 134.0105, y: -53.02468}
+        - {x: 122.0105, y: -54.02468}
+        - {x: 112.0105, y: -51.02468}
+        - {x: 97.01047, y: -43.02468}
+        - {x: 76.01047, y: -31.02468}
+        - {x: 59.01047, y: -21.02468}
+        - {x: 23.01047, y: 2.975319}
+        - {x: 15.01047, y: 7.975311}
+        - {x: -18.98953, y: 32.97532}
+        - {x: -27.98952, y: 40.97532}
+        - {x: -39.98953, y: 49.9753}
+        - {x: -58.98953, y: 62.9753}
+        - {x: -84.98952, y: 79.97532}
+        - {x: -106.9895, y: 91.9753}
+        - {x: -110.9895, y: 91.9753}
+        - {x: -115.9895, y: 89.9753}
+        - {x: -125.9895, y: 78.97532}
+        - {x: -134.9895, y: 60.9753}
+        - {x: -136.9895, y: 54.97532}
+        - {x: -136.9895, y: 47.97532}
+        - {x: -125.9895, y: 38.97532}
+        - {x: -45.98953, y: -1.024689}
+        - {x: -27.98952, y: -7.024681}
+        - {x: 8.010468, y: -23.02469}
+        - {x: 23.01047, y: -30.02469}
+        - {x: 26.01047, y: -32.02468}
+        - {x: 56.01047, y: -47.02468}
+        - {x: 58.01047, y: -49.02469}
+        - {x: 79.01045, y: -61.02468}
+        - {x: 111.0105, y: -82.02468}
+        - {x: 111.0105, y: -88.02468}
+        - {x: 115.0105, y: -92.02468}
+        - {x: 117.0105, y: -92.02468}
+        - {x: 125.0105, y: -85.02468}
+        - {x: 128.0105, y: -80.02468}
+        - {x: 136.0105, y: -64.02468}
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag:
+  userData:
+  assetBundleName:
+  assetBundleVariant:
